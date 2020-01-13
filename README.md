@@ -1,3 +1,3 @@
 # Myconky
 This is a repository for my conky setting.
-file:///home/hui/Pictures/Screenshot%20from%202020-01-13%2011-10-10.png
+![Image description](link-to-image)https://github.com/hui-aqua/image-repository/blob/master/ScreenshotForconky.png

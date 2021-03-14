@@ -7,5 +7,6 @@ Note:
 - It is the left monitor.
 - put conkyrc and cynky folder in $HOME.
 - add . as prefix to hide them.
+
 ![Desktop figure](Screenshot.png)
 

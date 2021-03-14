@@ -7,5 +7,5 @@ Note:
 - It is the left monitor.
 - put conkyrc and cynky folder in $HOME.
 - add . as prefix to hide them.
-![Desktop figure](https://github.com/hui-aqua/image-repository/blob/master/ScreenshotForconky.png)
+![Desktop figure](./Screenshot from 2021-03-14 16-44-36.png)
 
